@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDYr6/nkrZSkOB8/jrpvM1vYeUE8LMAnMkRnEof/9fsNHjdAl3j68grvI1kqOg8ksExThvZ4QN5ONDb091uLJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dcsal\\source\\repos\\game-codequeen_game\\PS8Skeleton\\Vector2D\\Vector2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcsal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

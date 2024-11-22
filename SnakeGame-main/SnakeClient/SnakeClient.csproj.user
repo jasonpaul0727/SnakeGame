@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <EnvironmentVariables>
+      <Variable name="__XAMARIN_DEBUG_HOSTS__" value="127.0.0.1" xmlns="" />
+      <Variable name="__XAMARIN_DEBUG_PORT__" value="59205" xmlns="" />
+      <Variable name="DYLD_FALLBACK_LIBRARY_PATH" value="" xmlns="" />
+    </EnvironmentVariables>
+  </PropertyGroup>
+</Project>

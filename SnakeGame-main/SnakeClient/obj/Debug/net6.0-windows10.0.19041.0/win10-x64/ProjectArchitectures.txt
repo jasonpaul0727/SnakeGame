@@ -1,0 +1,1 @@
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\SnakeClient\SnakeClient.csproj;x64

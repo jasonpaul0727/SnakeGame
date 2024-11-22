@@ -1,0 +1,12 @@
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\bin\Debug\net6.0\NetworkController.deps.json
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\bin\Debug\net6.0\NetworkController.dll
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\bin\Debug\net6.0\NetworkController.pdb
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.csproj.AssemblyReference.cache
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.AssemblyInfoInputs.cache
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.AssemblyInfo.cs
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.dll
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\refint\NetworkController.dll
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\NetworkController.pdb
+C:\Users\dcsal\source\repos\game-codequeen_game\PS8Skeleton\NetworkController\obj\Debug\net6.0\ref\NetworkController.dll

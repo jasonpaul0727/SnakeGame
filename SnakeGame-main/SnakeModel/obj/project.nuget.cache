@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ulFUYoUijYYpk6T8jNinztqs4Se5ukIsk2xAoUBWBhJJxRpfmNXRtin47UcYYtLXgFDqq7O/v1xbBKsC7w10lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dcsal\\source\\repos\\game-codequeen_game\\PS8Skeleton\\SnakeModel\\SnakeModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcsal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
